@@ -7,6 +7,7 @@ Suite Teardown       End suite
 
 *** Test Cases ***
 
-LawsonHomePage    	   
+LawsonHomePage    
+        [Tags]    testgen
 	Appstate       	FrontPage  
   
