@@ -8,6 +8,6 @@ Suite Teardown       End suite
 *** Test Cases ***
 
 LawsonHomePage    
-        [Tags]    testgen
+        [Tags]    testgen  numtests=50    nwise=2
 	Appstate       	FrontPage  
   
