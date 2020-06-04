@@ -11,6 +11,6 @@ LawsonHomePage
         [Tags]    testgen  numtests=50    nwise=2
 	Appstate       	FrontPage
 	ClickText	Log In or Register
-	ClickElement	I am a new customer.
+	ClickElement	newCustomer
 	ClickItem	Next
   
