@@ -25,4 +25,4 @@ Appstate
 	...               FrontPage
 
 FrontPage
-	GoTo    http://dev.lawsonproducts.com/
+	GoTo    http://lawsonproducts.com/
