@@ -10,7 +10,8 @@ Suite Teardown       End suite
 LawsonHomePage    
         [Tags]    testgen  numtests=50    nwise=2
 	Appstate       	FrontPage
-	ClickElement	xpath=//*[@id="top"]/div/div/a
+	ClickText	Log In or Register
+	ClickElement	xpath=//*[@id="login-id"]	maari1
 	ClickElement	xpath=//*[@id="content"]/ul/li[2]/form/p[4]/label/input[1]
 	ClickItem	Next
   
