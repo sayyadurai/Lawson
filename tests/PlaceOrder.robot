@@ -9,5 +9,8 @@ Suite Teardown       End suite
 
 LawsonHomePage    
         [Tags]    testgen  numtests=50    nwise=2
-	Appstate       	FrontPage  
+	Appstate       	FrontPage
+	ClickText	Log In or Register
+	ClickElement	I am a new customer.
+	ClickItem	Next
   
